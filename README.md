@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leeemingyu&theme=tokyonight&show_icons=true" width="47%" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeemingyu&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
   
   
