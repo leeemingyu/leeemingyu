@@ -1,18 +1,21 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&text=&height=40&fontSize=60&desc=Welcome%20To%20leeemingyu%20Github&descAlignY=75&descAlign=60&fontColor=d6ace6)
 
-<!--
-**leeemingyu/leeemingyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeemingyu&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=leeemingyu&theme=tokyonight&show_icons=true" width="47%" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeemingyu&theme=tokyonight)
 
-![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeemingyu&count_private=true)
+  
+  
+
+  
+
+
+
+</div>
